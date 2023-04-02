@@ -20,6 +20,6 @@
 
 
 ---
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=khoavukhoa3004&icon=5&color=4)](https://visitcount.itsvg.in"/></p>
+[![](https://visitcount.itsvg.in/api?id=khoavukhoa3004&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
