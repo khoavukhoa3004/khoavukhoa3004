@@ -10,7 +10,9 @@
 # 📊 GitHub Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khoavukhoa3004&theme=default&hide_border=false&include_all_commits=true&count_private=false"/></p>
 
-<p align="center"><img src="[https://github-readme-stats.vercel.app/api?username=khoavukhoa3004&theme=default&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-streak-stats.herokuapp.com/?user=khoavukhoa3004&theme=default&hide_border=false)"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khoavukhoa3004&theme=default&hide_border=false&include_all_commits=true&count_private=false"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khoavukhoa3004&theme=default&hide_border=false"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoavukhoa3004&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/></p>
 
