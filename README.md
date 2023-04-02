@@ -11,7 +11,8 @@
 <br>
 <br>
 <br>
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCBNPay2XARVhIqFZFnHgE9A)  -->
+
+
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.facebook.com/khoavukhoa3004/" target="blank">
