@@ -1,7 +1,8 @@
 # 💫 About Me:
-👋 Hi, My name's Vu Dang Khoa - student at HCMC university of technology. Nice to see you ^-^<br>👀 I’m interested in sleeping and coding, sometime I'm also going to the cinema but because of CoVid-19 diseases I just at home and watch anime but if someone need me I will ready to help them as soon as possible -🌱 I’m currently learning front-end web but when I complete, I will study data science<br>:( Since I speak English so bad, Please don't criticize me!!!<br>📫 If you want to find me, contact my fb: https://www.facebook.com/profile.php?id=100043539343788
-
-
+🤩🤩WELCOME TO MY GITHUB PROFILE!!🤩🤩
+👋 My name's Vu Dang Khoa - student at HCMC university of technology.<br>
+👀 I don't know what's exactly major I study, maybe computer science. However, I can try to get Intern jobs such as: Game, data analysis or back-end jobs since I have done some projects about them.
+<br>
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.facebook.com/khoavukhoa3004/" target="blank">
