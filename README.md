@@ -15,7 +15,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoavukhoa3004&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khoavukhoa3004&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=khoavukhoa3004&limit=5&theme=matrix&combine_all_yearly_contributions=true"/></p>
+![]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khoavukhoa3004&icon=5&color=4)](https://visitcount.itsvg.in)
