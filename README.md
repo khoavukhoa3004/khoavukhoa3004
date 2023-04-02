@@ -11,14 +11,14 @@
 <br>
 <br>
 <br>
-
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCBNPay2XARVhIqFZFnHgE9A)  -->
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.facebook.com/khoavukhoa3004/" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="my facebook" />
   </a>
   <a href="https://www.youtube.com/@khoa12tvuang49" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="my youtube" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="my youtube" />
   </a>
   <a href="https://www.linkedin.com/in/khoavukhoa3004/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="my linkedin" />
