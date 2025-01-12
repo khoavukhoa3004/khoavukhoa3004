@@ -17,26 +17,6 @@
 <br>
 
 
-## 🌐 Socials:
-<div align="center">
-  <a href="https://www.facebook.com/khoavukhoa3004/" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="my facebook" />
-  </a>
-  <a href="https://www.youtube.com/@khoa12tvuang49" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="my youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/khoavukhoa3004/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="my linkedin" />
-  </a>
-  <a href="https://instagram.com/khoavukhoa3004" target="top">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="my instagram" />
-  </a>
-</div>
-</p>
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khoavukhoa3004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khoavukhoa3004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khoavukhoa3004) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@khoa12tvuang49)  -->
-
-
-
 # 💻 Tech Stack:
 
 <div align="center">
